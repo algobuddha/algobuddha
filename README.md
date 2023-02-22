@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @algobuddha
 - 👀 I’m interested in coding 
-- 🌱 I’m currently C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
